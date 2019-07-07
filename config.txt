@@ -1,0 +1,6 @@
+owner=561427702645653526
+prefix=fr
+game=Swap.
+stayinchannel=true
+songinstatus=false
+token=NTk1NDg3NDQyNjYwODg0NTIz.XRrs_A.ZvzWfGjVD__ElcjOK49gLVwLKiM
