@@ -1,6 +1,6 @@
 owner=561427702645653526
-prefix=fr
+prefix=Li
 game=Swap.
 stayinchannel=true
 songinstatus=false
-token=NTk1NDg3NDQyNjYwODg0NTIz.XRrs_A.ZvzWfGjVD__ElcjOK49gLVwLKiM
+token=NTk1NDg5MTUwOTA4NzYwMDY1.XRrukA.go9MgmgAQtYcFHu7NVrbQM03O6Q
